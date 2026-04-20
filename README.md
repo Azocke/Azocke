@@ -3,8 +3,8 @@ Aereospace engineer, master's on cybersecurity and fullstacks programmer with 8+
 
 Currently a Junior Cybersecurity Engineer at [SplitScreen Games](https://splitscreen-games.com), with a strong background in secure system design and performance-oriented development. Known for fast learning, versatility, and the ability to translate complex technical and security concepts into clear, actionable solutions within multidisciplinary teams.
 
-## Roblox Portfolio:
-[Portfolio](https://azocke.github.io/DevPortfolio/)
+## Portfolio:
+[Roblox Portfolio](https://azocke.github.io/DevPortfolio/)
  > (Contact for professional portfolio & CV)
 
 ## Socials:
